@@ -6,7 +6,8 @@
   "scripts": {
     "callback": "node scr/callback/index.js",
     "callback:challenge": "node scr/callback/challenge.js",
-    "promise":"node scr/promise/index.js"    
+    "promise":"node scr/promise/index.js",
+    "promise:challenge":"node scr/promise/challenge.js"   
   },
   "keywords": [],
   "author": "",
